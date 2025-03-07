@@ -18,6 +18,11 @@ FileHashUtil is a **Streamlit-based** web application that allows users to gener
 - **Local Execution**: All hashing operations occur locally on the user's device, ensuring privacy and security.
 - **Data Protection**: Once the hash is computed, the file is no longer used or retained by the application.
 
+## Running Example
+
+You can try out FileHashUtil online at:  
+➡️ **[FileHashUtil Demo](https://filehashutil.streamlit.app)**
+
 ## Dependencies
 
 - Python 3.6+
