@@ -10,6 +10,11 @@ FileHashUtil is a **Streamlit-based** web application that allows users to gener
 - Download hash results with file metadata as a `.csv` file
 - Modern, responsive UI with enhanced styling
 
+## Running Example
+
+You can try out FileHashUtil online at:  
+➡️ **[FileHashUtil Demo](https://filehashutil.streamlit.app/)**
+
 ## Dependencies
 
 - Python 3.6+
