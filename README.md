@@ -10,10 +10,13 @@ FileHashUtil is a **Streamlit-based** web application that allows users to gener
 - Download hash results with file metadata as a `.csv` file
 - Modern, responsive UI with enhanced styling
 
-## Running Example
+## Security and Privacy
 
-You can try out FileHashUtil online at:  
-➡️ **[FileHashUtil Demo](https://filehashutil.streamlit.app/)**
+- **No Data Storage**: The application does not store or transmit any uploaded file data.
+- **Read-Only Access**: The application only reads the file to compute its hash and does not modify or alter it in any way.
+- **No External Connections**: The application does not send data over the internet; all operations occur locally.
+- **Local Execution**: All hashing operations occur locally on the user's device, ensuring privacy and security.
+- **Data Protection**: Once the hash is computed, the file is no longer used or retained by the application.
 
 ## Dependencies
 
@@ -57,3 +60,4 @@ This will launch the web interface in your default browser at `http://localhost:
 ## License
 
 This project is licensed under the MIT License.
+
