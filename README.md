@@ -28,7 +28,6 @@ You can try out FileHashUtil online at:
 - Python 3.6+
 - Streamlit
 - Pandas
-- Base64
 
 ## Installation
 
